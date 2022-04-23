@@ -22,6 +22,8 @@ The inspriration came from wanting to have a song to reflect our moods. We devel
 - for 1., 2., 3., 5., download the .ipynb notebook and place somewhere in your Google Drive
 - Copy the dataset over to a proper directory
 - Change the directories within the notebooks to a suitable location, if read properly the notebooks will start executing code
+- Make sure the individual dataset folders (angry,sad,fear,happy,disgusting,neutral) is in the **same directory** as the running notebook!
+- Also make sure the _music_ folder is in the **same directory** as the running notebook!
 
 ### NOTE:
 - for Xception, we have saved weights for this in a file _"model.pth"_, save this file along with the notebook in a suitable location.
